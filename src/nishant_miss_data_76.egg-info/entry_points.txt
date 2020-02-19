@@ -1,0 +1,3 @@
+[console_scripts]
+missing_data_cli_76 = missing_data_cli_76:main
+
